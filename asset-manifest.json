@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/catfriends-react/static/css/main.c63851a5.chunk.css",
+    "main.js": "/catfriends-react/static/js/main.a2545a45.chunk.js",
+    "main.js.map": "/catfriends-react/static/js/main.a2545a45.chunk.js.map",
+    "runtime-main.js": "/catfriends-react/static/js/runtime-main.176aaded.js",
+    "runtime-main.js.map": "/catfriends-react/static/js/runtime-main.176aaded.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/catfriends-react/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e4cb4826.chunk.js": "/catfriends-react/static/js/2.e4cb4826.chunk.js",
+    "static/js/2.e4cb4826.chunk.js.map": "/catfriends-react/static/js/2.e4cb4826.chunk.js.map",
+    "static/js/3.f8519d9c.chunk.js": "/catfriends-react/static/js/3.f8519d9c.chunk.js",
+    "static/js/3.f8519d9c.chunk.js.map": "/catfriends-react/static/js/3.f8519d9c.chunk.js.map",
+    "index.html": "/catfriends-react/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/catfriends-react/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.c63851a5.chunk.css.map": "/catfriends-react/static/css/main.c63851a5.chunk.css.map",
+    "static/js/2.e4cb4826.chunk.js.LICENSE.txt": "/catfriends-react/static/js/2.e4cb4826.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/catfriends-react/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.176aaded.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e4cb4826.chunk.js",
+    "static/css/main.c63851a5.chunk.css",
+    "static/js/main.a2545a45.chunk.js"
+  ]
+}
